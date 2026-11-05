@@ -7,7 +7,7 @@ import streetlearn_pb2
 import matplotlib.pyplot as plt
 import py360convert
 import os
-from core.utils import *
+from utils import *
 
 
 
